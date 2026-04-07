@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm Maria
 
 Computer Science student from Romania, currently focused on backend development while building full-stack and desktop applications.
 
