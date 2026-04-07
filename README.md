@@ -1,4 +1,45 @@
-## Hi there 👋
+## 👋 Hi, I'm [Your Name]
+
+Computer Science student from Romania, currently focused on backend development while building full-stack and desktop applications.
+
+Interested in systems, clean architecture, and learning by building real projects.
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** C#, Python, Java, C++, TypeScript
+* **Backend (learning):** ASP.NET Core
+* **Frontend:** React, CSS
+* **Desktop:** WinUI 3, Qt
+* **Tools:** Git, Figma
+
+---
+
+## 🚀 Projects
+
+* **Java Toy Language Interpreter**
+  Built to understand parsing and execution logic.
+
+* **C++ Qt Application**
+  Desktop app combining UI and core logic.
+
+* **React + TypeScript App** *(in progress)*
+  Focused on modern frontend development.
+
+* **C# WinUI 3 Project** *(in progress)*
+  Team-based desktop application.
+
+---
+
+## 🎯 Currently
+
+* Learning backend development with ASP.NET Core
+* Building projects in C#, React, and TypeScript
+* Exploring cybersecurity and robotics
+
+
+
 
 <!--
 **Mekk13/Mekk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
