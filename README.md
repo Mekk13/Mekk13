@@ -36,8 +36,6 @@ Interested in systems, clean architecture, and learning by building real project
 
 * Learning backend development with ASP.NET Core
 * Building projects in C#, React, and TypeScript
-* Exploring cybersecurity and robotics
-
 
 
 
