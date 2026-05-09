@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Maria
 
-Computer Science student from Romania, currently focused on backend development while building full-stack and desktop applications.
+I'm a computer science student from Romania, currently focused on backend development while building full-stack and desktop applications.
 
-Interested in systems, clean architecture, and learning by building real projects.
+I'm interested in systems, clean architecture, and learning by building real projects :)
 
 ---
 
